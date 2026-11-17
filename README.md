@@ -10,18 +10,14 @@
 
 ## About Me
 
-- 🧩 I pick the language for the job, not the other way around — **Rust** for systems & reverse engineering, **Swift/SwiftUI** for native macOS apps, **Python** for tooling & automation, **TypeScript/JavaScript** for the web
-- 🔬 Lately: reverse-engineering vendor protocols (Android screen mirroring, HID game controllers) and turning them into clean, native, no-vendor-binary tools
-- 🌱 My bio says it best — *"Please do teach me!"*
-- 💼 Open to interesting opportunities
 
 ## 🚀 Featured Projects
 
 **[pcsuite-rs](https://github.com/xVanTuring/pcsuite-rs)** — Pure-Rust headless core for Android-phone screen mirroring, control input, and clipboard sync — reverse-engineered, no vendor binaries.
 ![Stars](https://img.shields.io/github/stars/xVanTuring/pcsuite-rs?style=flat-square&color=f75c7e) ![Language](https://img.shields.io/github/languages/top/xVanTuring/pcsuite-rs?style=flat-square&color=f75c7e)
 
-**[PcsuiteMirror](https://github.com/xVanTuring/PcsuiteMirror)** — SwiftUI macOS menu-bar app to mirror & control an Android phone over USB/Wi-Fi, built on the pure-Rust pcsuite core above.
-![Stars](https://img.shields.io/github/stars/xVanTuring/PcsuiteMirror?style=flat-square&color=f75c7e) ![Language](https://img.shields.io/github/languages/top/xVanTuring/PcsuiteMirror?style=flat-square&color=f75c7e)
+**[Freyja](https://github.com/EsaiJJ/Freyja)** — SwiftUI macOS menu-bar app to mirror & control an Android phone over USB/Wi-Fi, built on the pure-Rust pcsuite core above.
+![Stars](https://img.shields.io/github/stars/EsaiJJ/Freyja?style=flat-square&color=f75c7e) ![Language](https://img.shields.io/github/languages/top/EsaiJJ/Freyja?style=flat-square&color=f75c7e)
 
 **[cquant](https://github.com/xVanTuring/cquant)** — Async Node color quantization powered by a native addon.
 ![Stars](https://img.shields.io/github/stars/xVanTuring/cquant?style=flat-square&color=f75c7e) ![Language](https://img.shields.io/github/languages/top/xVanTuring/cquant?style=flat-square&color=f75c7e)
