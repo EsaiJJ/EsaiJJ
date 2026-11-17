@@ -57,12 +57,3 @@ I build low-level Android utilities, custom recoveries, portable Linux environme
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EsaiJJ&show_icons=true&theme=radical&title_color=f75c7e&icon_color=f75c7e&border_color=f75c7e&hide_border=true" alt="EsaiJJ's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsaiJJ&layout=compact&theme=radical&title_color=f75c7e&border_color=f75c7e&hide_border=true" alt="Top Languages" />
-</p>
-  <img src="https://streak-stats.demolab.com/?user=xVanTuring&theme=radical&hide_border=true" alt="GitHub streak stats" />
-</p>
