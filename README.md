@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm xVan 👋</h1>
+<h1 align="center">Hi, I'm EsaiJJ 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Reverse-engineering+things+I+don't+own;Building+Android+Apps;C++%2B+whatever+the+problem+needs;Freyja+Best+Android+Flashing+Uttility" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xVanTuring&label=Profile%20views&color=f75c7e&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=EsaiJJ&label=Profile%20views&color=f75c7e&style=flat" alt="Profile views" />
 </p>
 
 ## About Me
